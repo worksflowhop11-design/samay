@@ -1,0 +1,10 @@
+{
+  "name": "MediCare+ Pharmacy",
+  "description": "A modern, trustworthy Indian pharmacy e-commerce platform with nationwide PIN code lookup, medicine search, prescription uploads, smart cart, and fast doorstep delivery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
